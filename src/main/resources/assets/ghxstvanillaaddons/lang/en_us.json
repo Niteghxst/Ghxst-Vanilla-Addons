@@ -1,0 +1,102 @@
+{
+  "item.ghxstvanillaaddons.glistening_carrot": "Glistening Carrot",
+  "item.ghxstvanillaaddons.meat_chunks_raw": "Raw Meat Chunks",
+  "item.ghxstvanillaaddons.meat_chunks_cooked": "Cooked Meat Chunks",
+
+  "item.ghxstvanillaaddons.copper_sword": "Copper Sword",
+  "item.ghxstvanillaaddons.copper_pickaxe": "Copper Pickaxe",
+  "item.ghxstvanillaaddons.copper_axe": "Copper Axe",
+  "item.ghxstvanillaaddons.copper_shovel": "Copper Shovel",
+  "item.ghxstvanillaaddons.copper_hoe": "Copper Hoe",
+
+  "item.ghxstvanillaaddons.copper_helmet": "Copper Helmet",
+  "item.ghxstvanillaaddons.copper_chestplate": "Copper Chestplate",
+  "item.ghxstvanillaaddons.copper_leggings": "Copper Leggings",
+  "item.ghxstvanillaaddons.copper_boots": "Copper Boots",
+
+  "item.ghxstvanillaaddons.amethyst_alloy": "Amethyst Alloy",
+  "item.ghxstvanillaaddons.amethyst_sword": "Amethyst Sword",
+  "item.ghxstvanillaaddons.amethyst_pickaxe": "Amethyst Pickaxe",
+  "item.ghxstvanillaaddons.amethyst_axe": "Amethyst Axe",
+  "item.ghxstvanillaaddons.amethyst_shovel": "Amethyst Shovel",
+  "item.ghxstvanillaaddons.amethyst_hoe": "Amethyst Hoe",
+
+  "item.ghxstvanillaaddons.amethyst_helmet": "Amethyst Alloy Helmet",
+  "item.ghxstvanillaaddons.amethyst_chestplate": "Amethyst Alloy Chestplate",
+  "item.ghxstvanillaaddons.amethyst_leggings": "Amethyst Alloy Leggings",
+  "item.ghxstvanillaaddons.amethyst_boots": "Amethyst Alloy Boots",
+
+  "item.ghxstvanillaaddons.emerald_sword": "Emerald Sword",
+  "item.ghxstvanillaaddons.emerald_pickaxe": "Emerald Pickaxe",
+  "item.ghxstvanillaaddons.emerald_axe": "Emerald Axe",
+  "item.ghxstvanillaaddons.emerald_shovel": "Emerald Shovel",
+  "item.ghxstvanillaaddons.emerald_hoe": "Emerald Hoe",
+
+  "item.ghxstvanillaaddons.emerald_helmet": "Emerald Helmet",
+  "item.ghxstvanillaaddons.emerald_chestplate": "Emerald Chestplate",
+  "item.ghxstvanillaaddons.emerald_leggings": "Emerald Leggings",
+  "item.ghxstvanillaaddons.emerald_boots": "Emerald Boots",
+
+
+  "item.ghxstvanillaaddons.oak_sword": "Oak Sword",
+  "item.ghxstvanillaaddons.oak_pickaxe": "Oak Pickaxe",
+  "item.ghxstvanillaaddons.oak_axe": "Oak Axe",
+  "item.ghxstvanillaaddons.oak_shovel": "Oak Shovel",
+  "item.ghxstvanillaaddons.oak_hoe": "Oak Hoe",
+
+  "item.ghxstvanillaaddons.birch_sword": "Birch Sword",
+  "item.ghxstvanillaaddons.birch_pickaxe": "Birch Pickaxe",
+  "item.ghxstvanillaaddons.birch_axe": "Birch Axe",
+  "item.ghxstvanillaaddons.birch_shovel": "Birch Shovel",
+  "item.ghxstvanillaaddons.birch_hoe": "Birch Hoe",
+
+  "item.ghxstvanillaaddons.jungle_sword": "Jungle Sword",
+  "item.ghxstvanillaaddons.jungle_pickaxe": "Jungle Pickaxe",
+  "item.ghxstvanillaaddons.jungle_axe": "Jungle Axe",
+  "item.ghxstvanillaaddons.jungle_shovel": "Jungle Shovel",
+  "item.ghxstvanillaaddons.jungle_hoe": "Jungle Hoe",
+
+  "item.ghxstvanillaaddons.acacia_sword": "Acacia Sword",
+  "item.ghxstvanillaaddons.acacia_pickaxe": "Acacia Pickaxe",
+  "item.ghxstvanillaaddons.acacia_axe": "Acacia Axe",
+  "item.ghxstvanillaaddons.acacia_shovel": "Acacia Shovel",
+  "item.ghxstvanillaaddons.acacia_hoe": "Acacia Hoe",
+
+  "item.ghxstvanillaaddons.dark_oak_sword": "Dark Oak Sword",
+  "item.ghxstvanillaaddons.dark_oak_pickaxe": "Dark Oak Pickaxe",
+  "item.ghxstvanillaaddons.dark_oak_axe": "Dark Oak Axe",
+  "item.ghxstvanillaaddons.dark_oak_shovel": "Dark Oak Shovel",
+  "item.ghxstvanillaaddons.dark_oak_hoe": "Dark Oak Hoe",
+
+  "item.ghxstvanillaaddons.mangrove_sword": "Mangrove Sword",
+  "item.ghxstvanillaaddons.mangrove_pickaxe": "Mangrove Pickaxe",
+  "item.ghxstvanillaaddons.mangrove_axe": "Mangrove Axe",
+  "item.ghxstvanillaaddons.mangrove_shovel": "Mangrove Shovel",
+  "item.ghxstvanillaaddons.mangrove_hoe": "Mangrove Hoe",
+
+  "item.ghxstvanillaaddons.cherry_sword": "Cherry Sword",
+  "item.ghxstvanillaaddons.cherry_pickaxe": "Cherry Pickaxe",
+  "item.ghxstvanillaaddons.cherry_axe": "Cherry Axe",
+  "item.ghxstvanillaaddons.cherry_shovel": "Cherry Shovel",
+  "item.ghxstvanillaaddons.cherry_hoe": "Cherry Hoe",
+
+  "item.ghxstvanillaaddons.bamboo_stick": "Bamboo Stick",
+  "item.ghxstvanillaaddons.bamboo_pickaxe": "Bamboo Pickaxe",
+  "item.ghxstvanillaaddons.bamboo_axe": "Bamboo Axe",
+  "item.ghxstvanillaaddons.bamboo_shovel": "Bamboo Shovel",
+  "item.ghxstvanillaaddons.bamboo_hoe": "Bamboo Hoe",
+
+  "item.ghxstvanillaaddons.crimson_sword": "Crimson Sword",
+  "item.ghxstvanillaaddons.crimson_pickaxe": "Crimson Pickaxe",
+  "item.ghxstvanillaaddons.crimson_axe": "Crimson Axe",
+  "item.ghxstvanillaaddons.crimson_shovel": "Crimson Shovel",
+  "item.ghxstvanillaaddons.crimson_hoe": "Crimson Hoe",
+
+  "item.ghxstvanillaaddons.warped_sword": "Warped Sword",
+  "item.ghxstvanillaaddons.warped_pickaxe": "Warped Pickaxe",
+  "item.ghxstvanillaaddons.warped_axe": "Warped Axe",
+  "item.ghxstvanillaaddons.warped_shovel": "Warped Shovel",
+  "item.ghxstvanillaaddons.warped_hoe": "Warped Hoe",
+
+  "creativetab.gva_tab": "Ghxst's Vanilla Addons"
+}

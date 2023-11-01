@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "item": "minecraft:acacia_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " P ",
+    " P ",
+    " S "
+  ],
+  "result": {
+    "item": "ghxstvanillaaddons:acacia_sword"
+  },
+  "show_notification": true
+}

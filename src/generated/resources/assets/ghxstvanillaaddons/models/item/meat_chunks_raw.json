@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ghxstvanillaaddons:item/meat_chunks_raw"
+  }
+}

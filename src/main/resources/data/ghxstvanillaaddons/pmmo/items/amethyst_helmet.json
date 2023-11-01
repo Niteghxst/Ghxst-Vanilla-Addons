@@ -1,0 +1,39 @@
+{
+    "xp_values":{
+        "ANVIL_REPAIR" :{
+            "smithing": 5000
+        },
+        "CRAFT": {
+            "crafting": 5000,
+            "smithing": 1000
+        },
+        "ENCHANT": {
+            "magic": 90
+        }
+    },
+    "requirements":{
+        "WEAR": {
+            "endurance": 75
+        }
+    },
+    "negative_effect":{
+        "minecraft:slowness":2,
+        "minecraft:weakness":2
+    },
+    "salvage":{
+        "ghxstvanillaaddons:amethyst_alloy": {
+            "salvageMax": 5,
+            "baseChance": 0.0,
+            "maxChance": 0.9,
+            "chancePerLevel": {
+                "smithing": 0.005
+            },
+            "levelReq": {
+                "smithing": 5
+            },
+            "xpPerItem": {
+                "smithing": 30
+            }
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "ghxstvanillaaddons:meat_chunks_raw"
+  },
+  "result": "ghxstvanillaaddons:meat_chunks_cooked"
+}

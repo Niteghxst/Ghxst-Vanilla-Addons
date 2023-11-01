@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_meat_chunks_raw": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ghxstvanillaaddons:meat_chunks_raw"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "ghxstvanillaaddons:meat_chunks_cooked"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_meat_chunks_raw",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ghxstvanillaaddons:meat_chunks_cooked"
+    ]
+  },
+  "sends_telemetry_event": false
+}

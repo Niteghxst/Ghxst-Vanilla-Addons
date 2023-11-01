@@ -1,0 +1,60 @@
+{
+    "xp_values":{
+        "ANVIL_REPAIR" :{
+            "smithing": 5000
+        },
+        "CRAFT": {
+            "crafting": 5000,
+            "smithing": 850
+        },
+        "ENCHANT": {
+            "magic": 175
+        }
+    },
+    "requirements":{
+        "WEAR": {
+            "excavation": 75
+        },
+        "TOOL": {
+            "excavation": 75
+        },
+        "WEAPON": {
+            "combat": 45
+        }
+    },
+    "negative_effect":{
+        "minecraft:mining_fatigue":2
+    },
+    "salvage":{
+        "ghxstvanillaaddons:amethyst_alloy": {
+            "salvageMax": 1,
+            "baseChance": 0.0,
+            "maxChance": 0.9,
+            "chancePerLevel": {
+                "smithing": 0.005
+            },
+            "levelReq": {
+                "smithing": 5
+            },
+            "xpPerItem": {
+                "smithing": 30
+            }
+        },
+        "minecraft:stick": {
+            "salvageMax": 2,
+            "baseChance": 0.15,
+            "maxChance": 1,
+            "chancePerLevel": {
+                "smithing": 0.05
+            },
+            "levelReq": {},
+            "xpPerItem": {
+                "smithing": 10
+            }
+        }
+    },
+    "vein_data":{
+        "chargeCap": 30,
+        "chargeRate": 0.1
+    }
+}

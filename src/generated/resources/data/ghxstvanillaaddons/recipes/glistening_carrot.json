@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "G": {
+      "item": "minecraft:golden_carrot"
+    },
+    "P": {
+      "item": "minecraft:blaze_powder"
+    },
+    "S": {
+      "item": "minecraft:glow_ink_sac"
+    }
+  },
+  "pattern": [
+    "ADA",
+    "SGS",
+    " P "
+  ],
+  "result": {
+    "item": "ghxstvanillaaddons:glistening_carrot"
+  },
+  "show_notification": true
+}

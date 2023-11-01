@@ -1,0 +1,9 @@
+{
+  "entries": [
+    "ghxstvanillaaddons:meat_chunks_from_spiders",
+    "ghxstvanillaaddons:pork_from_piglins",
+    "ghxstvanillaaddons:pork_from_piglin_brutes",
+    "ghxstvanillaaddons:pork_from_zombified_piglin"
+  ],
+  "replace": false
+}

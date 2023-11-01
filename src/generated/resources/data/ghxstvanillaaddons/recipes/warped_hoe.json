@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "item": "minecraft:warped_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "PP ",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "item": "ghxstvanillaaddons:warped_hoe"
+  },
+  "show_notification": true
+}

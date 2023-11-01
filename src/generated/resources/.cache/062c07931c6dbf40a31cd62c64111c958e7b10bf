@@ -1,0 +1,6 @@
+// 1.20.1	2023-10-31T19:17:39.0671725	Global Loot Modifiers : ghxstvanillaaddons
+925fbe78153535faa527b42beb3701f1d3a8f8ca data/forge/loot_modifiers/global_loot_modifiers.json
+7d8d281693114da8386c83f5a8ffefc253d4e9b1 data/ghxstvanillaaddons/loot_modifiers/meat_chunks_from_spiders.json
+a46d9d4fdfc431320b3a2e7ea896777255df15a1 data/ghxstvanillaaddons/loot_modifiers/pork_from_piglins.json
+1b8cf19a655a2de60f57d4da3528bff156307907 data/ghxstvanillaaddons/loot_modifiers/pork_from_piglin_brutes.json
+72dcfb71ddcdda5b0c4cb2e26102a9a5ddd54a14 data/ghxstvanillaaddons/loot_modifiers/pork_from_zombified_piglin.json

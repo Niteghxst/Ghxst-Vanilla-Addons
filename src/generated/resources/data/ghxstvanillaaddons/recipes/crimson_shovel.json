@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "item": "minecraft:crimson_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " P ",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "item": "ghxstvanillaaddons:crimson_shovel"
+  },
+  "show_notification": true
+}
