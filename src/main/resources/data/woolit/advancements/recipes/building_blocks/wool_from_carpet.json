@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_carpet": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:wool_carpets"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_carpet"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "woolit:black_wool",
+      "woolit:blue_wool",
+      "woolit:brown_wool",
+      "woolit:cyan_wool",
+      "woolit:gray_wool",
+      "woolit:green_wool",
+      "woolit:light_blue_wool",
+      "woolit:light_gray_wool",
+      "woolit:lime_wool",
+      "woolit:magenta_wool",
+      "woolit:orange_wool",
+      "woolit:pink_wool",
+      "woolit:purple_wool",
+      "woolit:red_wool",
+      "woolit:white_wool",
+      "woolit:yellow_wool"
+    ]
+  },
+  "sends_telemetry_event": false
+}

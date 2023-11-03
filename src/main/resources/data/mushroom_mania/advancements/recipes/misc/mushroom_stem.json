@@ -1,0 +1,56 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_brown_mushroom": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:brown_mushroom"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_red_mushroom": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:red_mushroom"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "mushroom_mania:mushrooms_to_stem"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_the_alternate_recipe": {
+      "conditions": {
+        "recipe": "mushroom_mania:mushrooms_to_stem_alternate"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_brown_mushroom",
+      "has_red_mushroom",
+      "has_the_recipe",
+      "has_the_alternate_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mushroom_mania:mushrooms_to_stem",
+      "mushroom_mania:mushrooms_to_stem_alternate"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_stick": {
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:stick"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_gold": {
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:gold_ingot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_gold_nugget": {
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:gold_nugget"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+        "has_stick",
+        "has_gold",
+        "has_gold_nugget"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+        "craftable_bell:bell"
+    ]
+  },
+  "sends_telemetry_event": false
+}

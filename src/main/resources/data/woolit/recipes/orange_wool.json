@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "result": {
+      "item": "minecraft:orange_wool",
+      "count": 4
+  },
+  "pattern": [
+      "##",
+      "##",
+      "##"
+  ],
+  "key": {
+      "#": {
+          "item": "minecraft:orange_carpet"
+      }
+  }
+}

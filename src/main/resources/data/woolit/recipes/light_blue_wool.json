@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "result": {
+      "item": "minecraft:light_blue_wool",
+      "count": 4
+  },
+  "pattern": [
+      "##",
+      "##",
+      "##"
+  ],
+  "key": {
+      "#": {
+          "item": "minecraft:light_blue_carpet"
+      }
+  }
+}

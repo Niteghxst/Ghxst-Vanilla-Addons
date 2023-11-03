@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_flesh": {
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:rotten_flesh"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "leather_from_rotten_flesh:leather"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_flesh",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "leather_from_rotten_flesh:leather"
+    ]
+  },
+  "sends_telemetry_event": false
+}

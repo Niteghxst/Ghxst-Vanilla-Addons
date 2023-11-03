@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "result": {
+      "item": "minecraft:green_wool",
+      "count": 4
+  },
+  "pattern": [
+      "##",
+      "##",
+      "##"
+  ],
+  "key": {
+      "#": {
+          "item": "minecraft:green_carpet"
+      }
+  }
+}
