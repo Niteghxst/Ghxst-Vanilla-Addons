@@ -1,0 +1,51 @@
+{
+  "display": {
+    "icon": {
+      "item": "ghxstvanillaaddons:amethyst_chestplate",
+      "nbt": "{enchant:1}"
+    },
+    "title": "Another Collection?",
+    "description": "Craft a set of amethyst armor",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "ghxstvanillaaddons:amethyst_gearpiece",
+  "criteria": {
+    "amethyst_gear": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ghxstvanillaaddons:amethyst_helmet"
+            ]
+          },
+          {
+            "items": [
+              "ghxstvanillaaddons:amethyst_chestplate"
+            ]
+          },
+          {
+            "items": [
+              "ghxstvanillaaddons:amethyst_leggings"
+            ]
+          },
+          {
+            "items": [
+              "ghxstvanillaaddons:amethyst_boots"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "amethyst_gear"
+    ]
+  ],
+  "rewards": {
+    "experience": 75
+  }
+}

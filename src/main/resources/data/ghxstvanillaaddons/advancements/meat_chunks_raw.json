@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "ghxstvanillaaddons:meat_chunks_raw"
+    },
+    "title": "Spider..meat?",
+    "description": "Is this even edible?",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "ghxstvanillaaddons:ghxstvanillaaddons",
+  "criteria": {
+    "requirement": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ghxstvanillaaddons:meat_chunks_raw"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  }
+}

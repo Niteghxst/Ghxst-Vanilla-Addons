@@ -1,0 +1,51 @@
+{
+  "display": {
+    "icon": {
+      "item": "ghxstvanillaaddons:emerald_chestplate",
+      "nbt": "{enchant:1}"
+    },
+    "title": "Villager Jealousy",
+    "description": "This brings boasting to a new level",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "ghxstvanillaaddons:emerald_gearpiece",
+  "criteria": {
+    "emerald_gear": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ghxstvanillaaddons:emerald_helmet"
+            ]
+          },
+          {
+            "items": [
+              "ghxstvanillaaddons:emerald_chestplate"
+            ]
+          },
+          {
+            "items": [
+              "ghxstvanillaaddons:emerald_leggings"
+            ]
+          },
+          {
+            "items": [
+              "ghxstvanillaaddons:emerald_boots"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "emerald_gear"
+    ]
+  ],
+  "rewards": {
+    "experience": 50
+  }
+}

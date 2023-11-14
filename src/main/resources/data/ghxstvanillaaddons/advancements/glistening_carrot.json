@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "ghxstvanillaaddons:glistening_carrot"
+    },
+    "title": "Toast will love this",
+    "description": "Or will they?",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "ghxstvanillaaddons:ghxstvanillaaddons",
+  "criteria": {
+    "requirement": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ghxstvanillaaddons:glistening_carrot"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  }
+}

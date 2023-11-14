@@ -1,0 +1,71 @@
+{
+  "display": {
+    "icon": {
+      "item": "ghxstvanillaaddons:copper_chestplate"
+    },
+    "title": "This Is Heavier Than I Thought",
+    "description": "Craft your first piece of copper armor",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "ghxstvanillaaddons:ghxstvanillaaddons",
+  "criteria": {
+    "has_copper_helmet": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ghxstvanillaaddons:copper_helmet"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_copper_chestplate": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ghxstvanillaaddons:copper_chestplate"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_copper_leggins": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ghxstvanillaaddons:copper_leggings"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_copper_boots": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ghxstvanillaaddons:copper_boots"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_copper_helmet",
+      "has_copper_chestplate",
+      "has_copper_leggins",
+      "has_copper_boots"
+    ]
+  ]
+}

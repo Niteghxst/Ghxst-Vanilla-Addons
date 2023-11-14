@@ -1,0 +1,71 @@
+{
+  "display": {
+    "icon": {
+      "item": "ghxstvanillaaddons:emerald_chestplate"
+    },
+    "title": "Don't You Want To Trade?",
+    "description": "Craft your first piece of emerald armor",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "ghxstvanillaaddons:ghxstvanillaaddons",
+  "criteria": {
+    "has_emerald_helmet": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ghxstvanillaaddons:emerald_helmet"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_emerald_chestplate": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ghxstvanillaaddons:emerald_chestplate"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_emerald_leggins": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ghxstvanillaaddons:emerald_leggings"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_emerald_boots": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ghxstvanillaaddons:emerald_boots"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_emerald_helmet",
+      "has_emerald_chestplate",
+      "has_emerald_leggins",
+      "has_emerald_boots"
+    ]
+  ]
+}
